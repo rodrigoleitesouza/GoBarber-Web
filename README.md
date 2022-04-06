@@ -1,8 +1,16 @@
-# Repo-Collector 🗃️
+# GoBarber-Web :computer:
+
+### `Conceito`
+
+GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas duas frentes do desenvolvimento de uma aplicação, dividindo-se em três partes: 
+
+- Back-End utilizando Node.js;
+- Front-End da aplicação web utilizando React.js;
+- Front-End da aplicação mobile utilizando React Native.
 
 ### `Objetivo`
 
-App web para armazenar e organizar repositórios públicos do GitHub mostrando algumas curiosidades.
+O presente repositório trata apenas da aplicação web que é utilizada pelos prestadores de serviço de beleza a fim de consultar os agendamentos que foram realizados pelos clientes utilizando a aplicação mobile.
 
 ### `Como iniciar?`
 
@@ -10,9 +18,7 @@ Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
 
 ### `Como usar?`
 
-Digite o nome de usuário do GitHub seguido de uma barra ( / ) e, então, o nome do repositório desejado.
-
-Ex.: facebook/react
+Crie uma conta de usuário, faça *login* e consulte os agendamentos marcados para seus serviços.
 
 ### `Demonstração`
 
