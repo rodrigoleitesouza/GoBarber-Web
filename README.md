@@ -24,6 +24,10 @@ Crie uma conta de usuário, faça *login* e consulte os agendamentos marcados pa
 
 ![GIF](https://media1.giphy.com/media/i4LBVHk919YQ4MQjgA/giphy.gif)
 
+### `Importante`
+
+Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente à parcela do Front-End.
+
 ------------------------------------------------------------------
 
 Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">rodrigoleitesouzadev@gmail.com</a>
