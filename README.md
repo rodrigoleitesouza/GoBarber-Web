@@ -20,13 +20,13 @@ Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
 
 Crie uma conta de usuário, faça *login* e consulte os agendamentos marcados para seus serviços.
 
-### `Demonstração`
-
-![GIF](https://media1.giphy.com/media/i4LBVHk919YQ4MQjgA/giphy.gif)
-
 ### `Importante`
 
 Uma vez que se trata de um aplicação completa, é necessário que a parcela referente ao Back-End esteja operando concomitantemente à parcela do Front-End.
+
+### `Demonstração`
+
+![GIF](https://media1.giphy.com/media/i4LBVHk919YQ4MQjgA/giphy.gif)
 
 ------------------------------------------------------------------
 
