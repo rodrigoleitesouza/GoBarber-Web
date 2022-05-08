@@ -12,6 +12,18 @@ GoBarber é uma aplicação para agendamento de serviços de beleza que atua nas
 
 O presente repositório trata apenas da aplicação web que é utilizada pelos prestadores de serviço de beleza a fim de consultar os agendamentos que foram realizados pelos clientes utilizando a aplicação mobile.
 
+### `Tecnologias`
+
+- React.JS;
+- React Router Dom;
+- Redux;
+- Redux Saga;
+- Persist;
+- Immer;
+- Axios;
+- Reactotron;
+- Styled-Components.
+
 ### `Como iniciar?`
 
 Defina em seu terminal o diretório "*Project*" e digite "*yarn start*".
